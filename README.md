@@ -1,4 +1,4 @@
-### Hi there 👋
+Oi! Meu nome é Geraldo Gonçalves, e eu sou estudante do 4º período de Ciência da Computação na UFRPE.
 
 <!--
 **gxvl/gxvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
