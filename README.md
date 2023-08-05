@@ -4,9 +4,9 @@
 <h3 align="center">Estudante do 4º período de Ciência da Computação na UFRPE </h3>
 
 
-- 🌱 I’m currently learning **React, node.js**
+- 🌱 Atualmente, estou aprendendo **React, node.js**
 
-- 👯 I’m looking to collaborate on **HTML/CSS/JavaScript/Java**
+- 👯 Tenho interesse em aprender e participar de projetos em **HTML/CSS/JavaScript/Java**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
 
