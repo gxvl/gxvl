@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **HTML/CSS/JavaScript/Java**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
-- 
+
 
 <h3 align="left">📱 Redes sociais:</h3>
 <p align="left">
