@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente, estou aprendendo **React, TypeScript e node.js**
 
-- 👯 Tenho interesse em aprender e participar de projetos em **HTML/CSS/JavaScript/Java**
+- 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Java/node.js**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
 
