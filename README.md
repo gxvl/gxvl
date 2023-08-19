@@ -4,7 +4,7 @@
 <h3 align="center">Estudante do 4º período de Ciência da Computação na UFRPE </h3>
 
 
-- 🌱 Atualmente, estou aprendendo **React, node.js**
+- 🌱 Atualmente, estou aprendendo **React, TypeScript e node.js**
 
 - 👯 Tenho interesse em aprender e participar de projetos em **HTML/CSS/JavaScript/Java**
 
