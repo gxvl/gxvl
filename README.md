@@ -4,9 +4,9 @@
 <h3 align="center">Estudante do 4º período de Ciência da Computação na UFRPE </h3>
 
 
-- 🌱 Atualmente, estou aprendendo **React, TypeScript e node.js**
+- 🌱 Atualmente, estou aprendendo **React/TypeScript**
 
-- 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Java/node.js**
+- 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Java**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
 
