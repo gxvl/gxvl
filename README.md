@@ -1,7 +1,7 @@
 
 <h1 align="center">Oi, meu nome é Geraldo Gonçalves</h1>
 
-<h3 align="center">Estudante do 4º período de Ciência da Computação na UFRPE </h3>
+<h3 align="center">Estudante do 5º período de Ciência da Computação na UFRPE </h3>
 
 
 - 🌱 Atualmente, estou aprendendo **React/TypeScript**
