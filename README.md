@@ -1,12 +1,12 @@
 
-<h1 align="center">Oi, meu nome é Geraldo Gonçalves</h1>
+<h1 align="center">Geraldo Gonçalves</h1>
 
 <h3 align="center">Estudante do 5º período de Ciência da Computação na UFRPE </h3>
 
 
-- 🌱 Atualmente, estou aprendendo **React/TypeScript**
+- 🌱 Atualmente, estou aprendendo **React.js/TypeScript/Next.js**
 
-- 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Java**
+- 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Next.js/Java**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
 
