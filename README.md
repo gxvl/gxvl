@@ -1,21 +1,13 @@
 
 <h1 align="center">Geraldo Gonçalves</h1>
 
-<h3 align="center">Estudante do 5º período de Ciência da Computação na UFRPE </h3>
-
+<h3 align="center">Estudante do 6º período de Ciência da Computação na UFRPE</h3>
 
 - 🌱 Atualmente, estou aprendendo **React.js/TypeScript/Next.js**
 
 - 👯 Tenho interesse em aprender e participar de projetos em **JavaScript/React.js/Next.js/Java**
 
 - 📫 Contato **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
-
-
-<h3 align="left">📱 Redes sociais:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gxvl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gxvl" height="30" width="40" /></a>
-<a href="https://instagram.com/gxvl__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gxvl__" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">💻 Linguagens e ferramentas:</h3>
