@@ -1,6 +1,7 @@
 
 <h1 align="center">Geraldo Gonçalves</h1>
 
+<h3 align="center">Desenvolvedor web</h3>
 <h3 align="center">Estudante do 6º período de Ciência da Computação na UFRPE</h3>
 
 - 🌱 Atualmente, estou aprendendo **React.js e node.js**
