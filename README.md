@@ -2,7 +2,7 @@
 <h1 align="center">Geraldo Gonçalves</h1>
 
 <h3 align="center">Fullstack web and mobile developer</h3>
-<h3 align="center">7th-semester Computer Science student at UFRPE</h3>
+<h3 align="center">8th-semester Computer Science student at UFRPE</h3>
 
 - 📫 Reach me out: **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
 
