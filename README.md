@@ -18,9 +18,9 @@ Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2
 
 ## What I do
 
-I like the space between product and infrastructure. I've shipped 25+ web apps end to end, built an ordering system that 50+ businesses run on and plug into their ERPs, and helped untangle a mobile app with 100K+ downloads.
+I like the space between product and infrastructure. I've shipped 25+ web apps end to end, built systems that hundreds of businesses run on and plug into their flows, and helped untangle apps with 100K+ downloads.
 
-Lately I'm building WhatsApp agents with MCP and RAG, where keeping each client's data strictly separate matters more than anything else. A good day is one where I delete more code than I add.
+Lately I'm building WhatsApp agents with MCP and RAG, self-initiated projects and studying AWS and AI Engineering.
 
 ## Stack
 
