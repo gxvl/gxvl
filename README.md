@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Geraldo Gonçalves - Full Stack Engineer · AI Engineering" width="100%" />
+<img src="assets/banner.svg" alt="Geraldo Gonçalves - Full Stack Development · AI Engineering" width="100%" />
 
 <br/>
 
@@ -16,14 +16,11 @@ Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2
 
 3+ years building production systems: web, mobile, backend and AI. I work spec-first with Claude Code and review everything that ships.
 
-## Highlights
+## What I do
 
-- **25+** SaaS and web apps shipped end to end
-- **50+** tenants on a multi-tenant ordering system with ERP integrations
-- **100K+** downloads on a mobile app where I refactored 20+ microfrontends
-- **200+** manager-level users on an admin platform I built
-- **-75%** unnecessary requests and **-90%** weekly bug reports after refactoring a PDF flow
-- WhatsApp agents on an MCP architecture with RAG and strict tenant isolation
+I like the space between product and infrastructure. I've shipped 25+ web apps end to end, built systems that hundreds of businesses run on and plug into their flows, and helped untangle apps with 100K+ downloads.
+
+Lately I'm building WhatsApp agents with MCP and RAG, self-initiated projects and studying AWS and AI Engineering.
 
 ## Stack
 
