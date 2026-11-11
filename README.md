@@ -1,15 +1,14 @@
 <div align="center">
 
-# Geraldo Gonçalves
-
-**Full Stack Engineer · AI Engineering & Architecture**
-Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2) · ES
+<img src="assets/banner.svg" alt="Geraldo Gonçalves - Full Stack Engineer · AI Engineering" width="100%" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-gxvl.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gxvl.dev/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-gxvl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gxvl)
 [![Email](https://img.shields.io/badge/EMAIL-gxvl.kr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gxvl.kr@gmail.com)
+
+Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2) · ES
 
 </div>
 
@@ -37,19 +36,6 @@ Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=tailwind,postgres,mongodb,firebase,rabbitmq,docker,gcp,git&perline=8" alt="Data and infrastructure" />
 </a>
-
-</div>
-
-## GitHub stats
-
-<div align="center">
-
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gxvl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxvl&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gxvl&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
