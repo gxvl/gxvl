@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Geraldo Gonçalves - Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#151a3a"/>
+      <stop offset="1" stop-color="#2a1250"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f0abfc"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="900" height="260" rx="18"/></clipPath>
+    <style>
+      .name { font: 700 52px 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#ink); letter-spacing: 1px; }
+      .role { font: 500 19px 'SFMono-Regular', Consolas, 'Courier New', monospace; fill: #cbd5e1; }
+      .meta { font: 400 13px 'SFMono-Regular', Consolas, 'Courier New', monospace; fill: #7c8aa5; }
+      .code { font: 400 12px 'SFMono-Regular', Consolas, 'Courier New', monospace; fill: #6d7bd1; }
+      .fade { opacity: 0; animation: rise 1.2s ease-out forwards; }
+      .d1 { animation-delay: .2s } .d2 { animation-delay: .7s } .d3 { animation-delay: 1.2s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+      .drift { animation: drift 9s ease-in-out infinite alternate; }
+      .drift2 { animation: drift 13s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { from { transform: translate(0,0) } to { transform: translate(26px,-14px) } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulse { 0%,100% { opacity: .25 } 50% { opacity: 1 } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="260" fill="url(#bg)"/>
+    <circle class="drift" cx="760" cy="60" r="170" fill="url(#glow)"/>
+    <circle class="drift2" cx="120" cy="230" r="140" fill="url(#glow)" opacity="0.6"/>
+
+    <!-- network of nodes: a nod to distributed systems -->
+    <g stroke="#6d7bd1" stroke-opacity="0.35" stroke-width="1" fill="none">
+      <path d="M620 40 L700 95 L790 60 L850 130 L760 190 L690 150 L700 95"/>
+      <path d="M690 150 L620 215 L760 190"/>
+      <path d="M790 60 L850 20"/>
+      <path d="M850 130 L880 200"/>
+    </g>
+    <g fill="#a78bfa">
+      <circle class="pulse" cx="620" cy="40" r="4"/>
+      <circle class="pulse" style="animation-delay:.5s" cx="700" cy="95" r="5"/>
+      <circle class="pulse" style="animation-delay:1s" cx="790" cy="60" r="4"/>
+      <circle class="pulse" style="animation-delay:1.5s" cx="850" cy="130" r="5"/>
+      <circle class="pulse" style="animation-delay:2s" cx="760" cy="190" r="4"/>
+      <circle class="pulse" style="animation-delay:2.5s" cx="690" cy="150" r="4"/>
+      <circle class="pulse" style="animation-delay:.8s" cx="620" cy="215" r="3"/>
+      <circle class="pulse" style="animation-delay:1.8s" cx="850" cy="20" r="3"/>
+      <circle class="pulse" style="animation-delay:2.2s" cx="880" cy="200" r="3"/>
+    </g>
+    <!-- packets travelling through the network -->
+    <circle r="3" fill="#7dd3fc">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M620 40 L700 95 L790 60 L850 130 L760 190 L690 150 L700 95"/>
+    </circle>
+    <circle r="3" fill="#f0abfc">
+      <animateMotion dur="4s" begin="1s" repeatCount="indefinite" path="M690 150 L620 215 L760 190 L850 130"/>
+    </circle>
+
+    <!-- floating code fragments -->
+    <g class="code">
+      <text x="40" y="34" class="drift">const ship = () =&gt; review(spec);</text>
+      <text x="470" y="244" class="drift2">await queue.publish(tenant, event);</text>
+      <text x="300" y="30" class="drift2" opacity="0.7">{ "tenants": 50, "downloads": 100000 }</text>
+    </g>
+
+    <text x="48" y="128" class="name fade d1">Geraldo Gonçalves</text>
+    <text x="50" y="165" class="role fade d2">Full Stack Engineer · AI Engineering<tspan class="cursor" fill="#a78bfa"> ▍</tspan></text>
+    <text x="50" y="198" class="meta fade d3">Recife, Brazil  ·  TypeScript · React · Node · Go · Python</text>
+    <rect x="50" y="212" width="0" height="3" rx="1.5" fill="url(#ink)">
+      <animate attributeName="width" from="0" to="300" dur="1.6s" begin="1.4s" fill="freeze"/>
+    </rect>
+  </g>
+</svg>
