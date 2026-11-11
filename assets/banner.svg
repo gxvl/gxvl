@@ -68,7 +68,6 @@
     <g class="code">
       <text x="40" y="34" class="drift">const ship = () =&gt; review(spec);</text>
       <text x="470" y="244" class="drift2">await queue.publish(tenant, event);</text>
-      <text x="300" y="30" class="drift2" opacity="0.7">{ "tenants": 50, "downloads": 100000 }</text>
     </g>
 
     <text x="48" y="128" class="name fade d1">Geraldo Gonçalves</text>
