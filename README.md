@@ -1,13 +1,66 @@
+<div align="center">
 
-<h1 align="center">Geraldo Gonçalves</h1>
+# Geraldo Gonçalves
 
-<h3 align="center">Fullstack web and mobile developer</h3>
-<h3 align="center">8th-semester Computer Science student at UFRPE</h3>
+**Full Stack Engineer · AI Engineering & Architecture**
+Recife, Brazil · B.Sc. Computer Science (UFRPE) · PT (native) · EN (EF SET C2) · ES
 
-- 📫 Reach me out: **geraldo.goncalves@ufrpe.br // gxvl.kr@gmail.com**
+<br/>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-gxvl.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gxvl.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-gxvl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gxvl)
+[![Email](https://img.shields.io/badge/EMAIL-gxvl.kr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gxvl.kr@gmail.com)
 
-<h3 align="left">💻 Skills and tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gxvl&layout=compact)](https://github.com/gxvl/github-readme-stats)
+## About
+
+3+ years building production systems: web, mobile, backend and AI. I work spec-first with Claude Code and review everything that ships.
+
+## Highlights
+
+- **25+** SaaS and web apps shipped end to end
+- **50+** tenants on a multi-tenant ordering system with ERP integrations
+- **100K+** downloads on a mobile app where I refactored 20+ microfrontends
+- **200+** manager-level users on an admin platform I built
+- **-75%** unnecessary requests and **-90%** weekly bug reports after refactoring a PDF flow
+- WhatsApp agents on an MCP architecture with RAG and strict tenant isolation
+
+## Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,next,nodejs,nestjs&perline=8" alt="Languages and frameworks" />
+</a>
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=tailwind,postgres,mongodb,firebase,rabbitmq,docker,gcp,git&perline=8" alt="Data and infrastructure" />
+</a>
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gxvl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxvl&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gxvl&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
+
+## Contact
+
+Open to full stack and AI engineering roles.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-gxvl.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gxvl.dev/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-gxvl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gxvl)
+[![Email](https://img.shields.io/badge/EMAIL-gxvl.kr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gxvl.kr@gmail.com)
+
+</div>
