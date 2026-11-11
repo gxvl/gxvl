@@ -35,15 +35,3 @@ Lately I'm building WhatsApp agents with MCP and RAG, self-initiated projects an
 </a>
 
 </div>
-
-## Contact
-
-Open to full stack and AI engineering roles.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-gxvl.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gxvl.dev/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-gxvl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gxvl)
-[![Email](https://img.shields.io/badge/EMAIL-gxvl.kr@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gxvl.kr@gmail.com)
-
-</div>
