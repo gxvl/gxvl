@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Geraldo Gonçalves - Full Stack Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Geraldo Gonçalves - Full Stack Development">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1020"/>
@@ -71,7 +71,7 @@
     </g>
 
     <text x="48" y="128" class="name fade d1">Geraldo Gonçalves</text>
-    <text x="50" y="165" class="role fade d2">Full Stack Engineer · AI Engineering<tspan class="cursor" fill="#a78bfa"> ▍</tspan></text>
+    <text x="50" y="165" class="role fade d2">Full Stack Development · AI Engineering<tspan class="cursor" fill="#a78bfa"> ▍</tspan></text>
     <text x="50" y="198" class="meta fade d3">Recife, Brazil  ·  TypeScript · React · Node · Go · Python</text>
     <rect x="50" y="212" width="0" height="3" rx="1.5" fill="url(#ink)">
       <animate attributeName="width" from="0" to="300" dur="1.6s" begin="1.4s" fill="freeze"/>
